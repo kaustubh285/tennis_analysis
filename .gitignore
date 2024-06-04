@@ -1,0 +1,5 @@
+input
+yolov8x.pt
+venv
+runs
+.DS_Store
