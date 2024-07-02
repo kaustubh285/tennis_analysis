@@ -1,5 +1,8 @@
-input
-yolov8x.pt
+input/image.png
+*.pt
 venv
 runs
 .DS_Store
+keypoints_model.pth
+output
+__pycache__
